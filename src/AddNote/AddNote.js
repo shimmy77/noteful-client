@@ -10,13 +10,19 @@ export default class AddNote extends Component {
     const { folders } = this.props
     return (
       <section className='AddNote'>
-        <h2>Create a note</h2>
+        <h2>Create a chord</h2>
         <NotefulForm>
           <div className='field'>
             <label htmlFor='note-name-input'>
               Name
             </label>
             <input type='text' id='note-name-input' />
+          </div>
+          <div className='field'>
+            <label htmlFor='note-artist-input'>
+              Artist
+            </label>
+            <input type='text' id='note-artist-input' />
           </div>
           <div className='field'>
             <label htmlFor='note-content-input'>
@@ -26,7 +32,7 @@ export default class AddNote extends Component {
           </div>
           <div className='field'>
             <label htmlFor='note-folder-select'>
-              Folder
+              Playlist
             </label>
             <select id='note-folder-select'>
               <option value={null}>...</option>
@@ -39,7 +45,7 @@ export default class AddNote extends Component {
           </div>
           <div className='buttons'>
             <button type='submit'>
-              Add note
+              Add Chord
             </button>
           </div>
         </NotefulForm>

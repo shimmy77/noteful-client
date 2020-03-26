@@ -6,7 +6,7 @@ export default class AddFolder extends Component {
   render() {
     return (
       <section className='AddFolder'>
-        <h2>Create a folder</h2>
+        <h2>Create a Playlist</h2>
         <NotefulForm>
           <div className='field'>
             <label htmlFor='folder-name-input'>
@@ -16,7 +16,7 @@ export default class AddFolder extends Component {
           </div>
           <div className='buttons'>
             <button type='submit'>
-              Add folder
+              Add Playlist
             </button>
           </div>
         </NotefulForm>

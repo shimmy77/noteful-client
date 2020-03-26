@@ -28,7 +28,7 @@ export default function NoteListMain(props) {
         >
           <FontAwesomeIcon icon='plus' />
           <br />
-          Note
+          Chord
         </CircleButton>
       </div>
     </section>

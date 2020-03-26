@@ -32,7 +32,7 @@ export default function NoteListNav(props) {
         >
           <FontAwesomeIcon icon='plus' />
           <br />
-          Folder
+          Playlist
         </CircleButton>
       </div>
     </div>

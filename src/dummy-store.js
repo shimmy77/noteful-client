@@ -2,24 +2,24 @@ export default {
   "folders": [
     {
       "id": "b0715efe-ffaf-11e8-8eb2-f2801f1b9fd1",
-      "name": "Important"
+      "name": "Playlist"
     },
     {
       "id": "b07161a6-ffaf-11e8-8eb2-f2801f1b9fd1",
-      "name": "Super"
+      "name": "Rock"
     },
     {
       "id": "b07162f0-ffaf-11e8-8eb2-f2801f1b9fd1",
-      "name": "Spangley"
+      "name": "Jazz"
     }
   ],
   "notes": [
     {
       "id": "cbc787a0-ffaf-11e8-8eb2-f2801f1b9fd1",
-      "name": "Dogs",
+      "name": "Back in Black",
       "modified": "2019-01-03T00:00:00.000Z",
       "folderId": "b0715efe-ffaf-11e8-8eb2-f2801f1b9fd1",
-      "content": "Corporis accusamus placeat quas non voluptas. Harum fugit molestias qui. Velit ex animi reiciendis quasi. Suscipit totam delectus ut voluptas aut qui rerum. Non veniam eius molestiae rerum quam.\n \rUnde qui aperiam praesentium alias. Aut temporibus id quidem recusandae voluptatem ut eum. Consequatur asperiores et in quisquam corporis maxime dolorem soluta. Et officiis id est quia sunt qui iste reiciendis saepe. Ut aut doloribus minus non nisi vel corporis. Veritatis mollitia et molestias voluptas neque aspernatur reprehenderit.\n \rMaxime aut reprehenderit mollitia quia eos sit fugiat exercitationem. Minima dolore soluta. Quidem fuga ut sit voluptas nihil sunt aliquam dignissimos. Ex autem nemo quisquam voluptas consequuntur et necessitatibus minima velit. Consequatur quia quis tempora minima. Aut qui dolor et dignissimos ut repellat quas ad."
+      "content": "Back in black I hit the sack I've been too long I'm glad to be back Yes, I'm let loose From the noose That's kept me hanging about I've been looking at the sky 'Cause it's gettin' me high Forget the hearse 'cause I never die I got nine lives Cat's eyes Abusin' every one of them and running wild"
     },
     {
       "id": "d26e0034-ffaf-11e8-8eb2-f2801f1b9fd1",
